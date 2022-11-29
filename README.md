@@ -1,7 +1,7 @@
 # PWA Text Editor
 
 https://jaxpi.github.io/DEPLOYEDLINK/
-<br><img src="assets/images/mainscreenshot.jpg" style="width:300px; height auto;">
+<br><img src="Develop/server/images/jatebrowsopen.jpg" style="width:300px; height auto;">
 
 
 ## Description
@@ -11,6 +11,8 @@ This application is a text editor that will store your entered text and automati
 ## Installation
 
 To install, open the application in your browser and click on the black Install! button on the top left of the page. This will create a stand-alone app and it will be automatically added to your desktop.
+<br><img src="Develop/server/images/jateinstapp.jpg" style="width:100px; height auto;">
+<br><img src="Develop/server/images/jateinstappopen.jpg" style="width:200px; height auto;">
 
 ## Usage
 
