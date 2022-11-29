@@ -3,7 +3,6 @@
 https://jaxpi.github.io/DEPLOYEDLINK/
 <br><img src="Develop/server/images/jatebrowsopen.jpg" style="width:300px; height auto;">
 
-
 ## Description
 
 This application is a text editor that will store your entered text and automatically stylized to meet the standards of coding.
