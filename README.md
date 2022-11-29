@@ -1,6 +1,6 @@
 # PWA Text Editor
 
-https://jaxpi.github.io/DEPLOYEDLINK/
+https://jaxpi-pwa-text-editor.herokuapp.com/
 <br><img src="Develop/server/images/jatebrowsopen.jpg" style="width:300px; height auto;">
 
 ## Description
