@@ -5,7 +5,7 @@ https://jaxpi-pwa-text-editor.herokuapp.com/
 
 ## Description
 
-This application is a text editor that will store your entered text and automatically stylized to meet the standards of coding.
+This is a progressive web application text editor that uses IndexedDB and the 'idb' package to store entered text.
 
 ## Installation
 
